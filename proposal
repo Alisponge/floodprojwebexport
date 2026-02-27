@@ -1,0 +1,17 @@
+Flood Simulation
+
+What is the project?
+My proposed project, built on a game engine, will be able to simulate floods in Sheffield by taking topographical data and mapping out the terrain. Following this, rainfall will be able to be simulated, as well as dams breaking to simulate possible disasters or weather pat
+erns and its effect on the landscape. Ideally it will be 3d and have a top down view of a mesh.
+
+What is the purpose?
+The purpose is to help identify flaws in current flood defenses, as well as a tool for geography teachers to display the effects of flooding.
+
+Who is the client, why do they need it?
+My current idea for a client is the geography teacher, Mr Webster, as he could use it in GCSE geography to demonstrate the effectiveness of flood defenses.
+
+What is similar?
+There are flood simulations online, but the one I found wasn't very user-friendly and didn't have many options for testing.
+
+How you going to do it?
+I already am confident with Godot 4.0: a game engine. I will prototype the mesh generation and if that works I will begin 
